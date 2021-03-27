@@ -18,7 +18,8 @@ events-spa.jacrdn.com
 
 4. Is your app functionality complete? If not, what's missing?
 
-no, im missing comments and invitees. basically all you can do is make a user can do is login (with name and password) and make a post 
+no, im missing comments and invitees. basically all you can do is make a user can do is login (with name and password) and make a post
+(react is sometimes buggy so if you try to test this make sure install the appropriate dependencies, and npm etc)
 
 5. Is your app properly deployed? If not, what went wrong?
 
